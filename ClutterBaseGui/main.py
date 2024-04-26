@@ -1,6 +1,6 @@
 # This Python file uses the following encoding: utf-8
 import sys
-#from PySide2 import QtWidgets, QtUiTools, QtCore
+from PySide2 import QtWidgets, QtUiTools, QtCore
 from PySide2 import QtSql
 from PySide2.QtSql import QSqlQueryModel
 from PySide2.QtCore import Qt
